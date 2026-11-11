@@ -1,0 +1,5 @@
+title: "magpie-stream"
+description: "High availability  and network topology specifications for yetone/magpie - Autonomous high-performance implementation and production toolkit."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
